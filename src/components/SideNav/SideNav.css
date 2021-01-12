@@ -1,0 +1,33 @@
+.nav__sign {
+    background-color: #174C6B;
+    height: 80px;
+    width: 25%;
+    display: flex;
+    justify-content: flex-start; 
+    align-items:center; 
+}
+
+.nav__bar {
+    margin-left: 2rem;
+    font-size: 2rem;
+    height:80px;
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+}
+
+.sidebar__nav {
+    background: #174C6B;
+    width: 20%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    transition: 350ms;
+    z-index: 10; 
+}
+
+.sidebar__wrap {
+    width: 100%;
+}
