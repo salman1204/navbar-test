@@ -17,8 +17,7 @@
 }
 
 .sidebar__nav {
-    background: #174C6B;
-    width: 20%;
+    background: rgba(23, 76, 107, 0.88);
     height: 100vh;
     display: flex;
     justify-content: center;
