@@ -18,7 +18,7 @@ export const SidebarData = [
   },
   {
     title: 'Package',
-    path: '/package',
+    // path: '/package',
     icon: <IoPricetags />,
     iconClosed: <RiIcons.RiArrowDownSFill />,
     iconOpened: <RiIcons.RiArrowUpSFill />,
